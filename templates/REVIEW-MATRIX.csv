@@ -1,0 +1,2 @@
+finding_id,candidate_id,source_hash,evidence_class,reproduced,affected_claim,mechanism,regression_test_id,successor_fix,independent_retest_status,decision,limitations
+EXAMPLE-1,example-r1,EXAMPLE_HASH,IR,yes,credential_output_safe,escaped_value_bypassed_detection,D01,decode_before_scan,pending,CONDITIONAL,synthetic_only

@@ -1,0 +1,15 @@
+{
+  "method": "EBAV",
+  "method_version": "0.1.0",
+  "candidate": "example-candidate-r2",
+  "artifact_sha256": "EXAMPLE_ONLY_NOT_A_REAL_HASH",
+  "review_scope": "offline mock environment",
+  "decision": "CONDITIONAL",
+  "reviewer_as_recorded": "independent-reviewer",
+  "observations": [{"claim": "test suite executed", "evidence_class": "IR", "status": "supported"}],
+  "findings": [{"id": "EXAMPLE-1", "status": "reproduced", "requirement": "add failing regression"}],
+  "limitations": ["No live provider access", "No cryptographic reviewer authentication"],
+  "next_review_action": "prepare successor candidate",
+  "authorized_operational_actions": [],
+  "excluded_actions": ["installation", "deployment", "secret access", "IAM mutation"]
+}

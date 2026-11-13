@@ -1,0 +1,13 @@
+{
+  "title": "Evidence-Bound Adversarial Verification (EBAV): A Governed Field Method for AI-Assisted Software Verification and Release",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "creators": [{"name": "Coleman, Brendon R."}],
+  "description": "EBAV v0.1.0 is a proposed seven-stage field method for evidence-bounded claims, immutable candidates, independent adversarial software review, regression-driven correction and separately scoped human authorization. Includes a retrospective Jesus Is King case account with explicit evidence limitations. Not peer reviewed or certified.",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "0.1.0",
+  "keywords": ["adversarial verification", "AI-assisted software engineering", "release governance", "software provenance", "mutation testing", "human authorization"],
+  "language": "eng",
+  "notes": "Original field-method synthesis incorporating established practices; historical JIK case reports do not establish comparative effectiveness."
+}
