@@ -28,13 +28,14 @@ EBAV is a proposed governance method for AI-assisted software verification and r
 
 The Jesus Is King case is retrospective and drawn from supplied review reports; restricted primary infrastructure evidence is not bundled. This repository intentionally includes no credentials, secret values, interactive console challenges, provider tokens, or operational authorization to run any JIK tooling.
 
-## Release path
+## Archived release and citation
 
-1. Make a dedicated GitHub repository named `evidence-bound-adversarial-verification`.
-2. Upload the contents and verify recorded SHA-256 identities.
-3. Enable the repository in Zenodo's GitHub integration.
-4. Publish a GitHub release tagged `v0.1.0`.
-5. Check that Zenodo created the archived record, then add the actual DOI to the website and citation metadata in a separately versioned update. **Do not invent a DOI.**
+- **Original GitHub release:** https://github.com/noblebrendon-cloud/evidence-bound-adversarial-verification/releases/tag/v0.1.0
+- **Zenodo version DOI:** https://doi.org/10.5281/zenodo.24210752 (shown as Published in the connected Zenodo repository on November 13, 2026).
+- **Source commit associated with the immutable v0.1.0 tag:** `a3fc4a415e31eff6595447e5b58ac68bb2353080`.
+- **Website:** https://brendonrcoleman.com/methods/ebav/
+- **Citation:** Coleman, Brendon R. (2026). *Evidence-Bound Adversarial Verification (EBAV): A Governed Field Method for AI-Assisted Software Verification and Release* (Version 0.1.0). Zenodo. https://doi.org/10.5281/zenodo.24210752
 
-**Website:** https://brendonrcoleman.com/methods/ebav/ (Netlify production deploy for website PR #11 reported READY on 2026-11-13).  
-**Citation status:** DOI not yet issued.
+**Evidence boundary:** The Zenodo integration screenshot establishes the Published status, title, version, and DOI; a separate public Zenodo file-by-file verification was not available through this session. The GitHub release tag's 16 files had already been verified against the version 0.1.0 integrity manifest.
+
+The v0.1.0 tag is preserved. The branch `main` may contain post-release citation/status annotations and a separately regenerated `SHA256SUMS`; those updates are not silently substituted into the archived v0.1.0 release.
