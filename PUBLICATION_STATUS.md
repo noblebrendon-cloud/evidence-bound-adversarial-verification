@@ -21,3 +21,15 @@ Prepared on November 13, 2026.
 7. Publish the actual DOI (no placeholder) in a separate website/GitHub update, record which tag and archive it names, and distinguish a version DOI from a concept DOI.
 
 A DOI records an archived version; it is not evidence of method originality, peer review or tested security.
+
+## Post-archive addendum — November 13, 2026
+
+This append-only addendum supersedes the *pending* publication statuses recorded above, which remain as an accurate historical snapshot at initial package preparation.
+
+- **GitHub v0.1.0 release:** https://github.com/noblebrendon-cloud/evidence-bound-adversarial-verification/releases/tag/v0.1.0
+- **Immutable release commit:** `a3fc4a415e31eff6595447e5b58ac68bb2353080`; the GitHub tag was confirmed to resolve to this commit.
+- **Zenodo release:** The Zenodo GitHub integration displays `v0.1.0` as **Published** with version DOI `10.5281/zenodo.24210752`.
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.24210752
+- **Archive verification boundary:** Publication status and DOI are supported by the Zenodo integration screenshot. External Zenodo record file contents and creator fields were not independently fetched in this session; do not expand the claim into file-level independent archive validation.
+- **Research classification:** Initial field-method working paper; no peer review, certification, or comparative effectiveness established.
+- **Source-integrity boundary:** The v0.1.0 Git tag and its initial seal remain unchanged. Post-release annotations on `main` require a refreshed current-branch integrity manifest.
